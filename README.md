@@ -1,2 +1,2 @@
-# Google-Lab-Git-Mod3
+# googlelab.git
 lab guide
